@@ -8,7 +8,6 @@ import string
 
 # Global Variables
 VIDEO_URL = "https://www.youtube.com/shorts/hIMIsbLodzM"  # Replace with your YouTube video URL
-VIDEO_URL = "https://www.youtube.com/watch?v=cPVFilhKmGA"  # Replace with your YouTube video URL
 LANGUAGE = 'en'  # Default language
 
 def get_video_id(url):
