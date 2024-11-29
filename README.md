@@ -26,7 +26,7 @@ pip install youtube_transcript_api
 
 1. **Set the YouTube Video URL**
 
-   Open the script (`check_captions.py`) and update the `VIDEO_URL` variable with the desired YouTube Short URL.
+   Open the script (`main.py`) and update the `VIDEO_URL` variable with the desired YouTube Short URL.
 
    ```python
    VIDEO_URL = "https://www.youtube.com/shorts/hIMIsbLodzM"  # Vsauce Short
